@@ -1,0 +1,146 @@
+body{
+    margin: 1%;
+}
+.main{
+    background-color: gray;
+    height: 1800px;
+}
+.main1{
+    display: flex;
+    justify-content: center;
+}
+.d1 {
+    border: 8px solid red;
+    width: 500px;
+    color: purple;
+    font-style: italic;
+    text-align: center;
+    box-shadow: 8px 10px 2px purple;
+    text-shadow: 2px 1px 2px purple;
+    margin-left: 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.d2 {
+    display: inline-block;
+    width: 200px;
+    border: 8px solid red;
+    box-shadow: 8px 10px 2px purple;
+    text-shadow: 2px 1px 2px purple;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.centre {
+    border: 10px solid black;
+    display: inline-block;
+    text-align: center;
+}
+
+.d3 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    border: 8px solid red;
+    box-shadow: 8px 10px 2px purple;
+    background-color: white;
+    padding-top: 75px;
+    border-radius: 10px;
+}
+
+.d4 {
+    display: inline-block;
+    width: 200px;
+    border: 8px solid red;
+    text-shadow: 2px 1px 2px purple;
+    box-shadow: 8px 10px 2px purple;
+    padding: 10px;
+    margin-top: 80px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.d5 {
+    width: 200px;
+    border: 8px solid red;
+    text-shadow: 2px 1px 2px purple;
+    box-shadow: 8px 10px 2px purple;
+    padding: 10px;
+    float: right;
+    margin-top: 80px;
+    background-color: white;
+    border-radius: 10px;
+}
+form{
+    text-align: center;
+    height: 200px;
+}
+.color{
+    background-color: red;
+    border-radius: 25px;
+}
+.d2345{
+    border: 10px solid green;
+    height: 800px;
+}
+.d6{
+    display: inline-block;
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+}
+.d7{
+    display: inline-block;
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+    margin-left: 20px;
+}
+.txt{
+    text-align: center;
+    font-style: italic;
+    margin: 40px;
+    line-height: 30px;
+    font-weight: bold;
+
+}
+.txt1{
+    text-align: center;
+    font-style: italic;
+    margin: 40px;
+    line-height: 38px;
+    font-weight: bold;
+    
+}
+.d8{
+        background-color: yellow;
+        text-align: center;
+        font-style: italic;
+        width: 850px;
+        
+}
+.d678{
+    background-color: green;
+    border: 8px solid purple;
+    margin: 40px;
+    margin-left: 280px;
+    width: 850px;
+    padding: 10px;
+    text-align: center;
+}
+.d9{
+    position:fixed;
+    top: 530px;
+    left: 440px;
+    background-color: yellowgreen;
+    border: 8px solid red;
+    border-radius: 15px;
+    box-shadow: 8px 10px 2px purple;
+}
+.last{
+    display: inline-block;
+    margin: 30px;
+}
